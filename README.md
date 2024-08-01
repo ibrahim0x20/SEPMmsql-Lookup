@@ -1,6 +1,6 @@
 # SEPMmsql-Lookup
 Query Symantec SEPM Console MSQL databse
-
+<pre></pre>
 python SEPMsql-Lookup.py -h
 usage: SEPMsql-Lookup.py [-h] [-q [QUERY]] [-bl <File>] {computer_name,username,addr,sha2,app,update}
 
@@ -16,3 +16,4 @@ options:
                         What are you looking for?
   -bl <File>, --blklist <File>
                         Black list file of sha2
+                        </pre>
