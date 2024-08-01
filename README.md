@@ -1,6 +1,7 @@
 # SEPMmsql-Lookup
 Query Symantec SEPM Console MSQL databse
-<pre></pre>
+
+<pre>
 python SEPMsql-Lookup.py -h
 usage: SEPMsql-Lookup.py [-h] [-q [QUERY]] [-bl <File>] {computer_name,username,addr,sha2,app,update}
 
